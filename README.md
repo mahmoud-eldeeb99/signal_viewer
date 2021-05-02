@@ -1,2 +1,2 @@
 # signal_viewer
-## staring point is (app.py)
+## starting point is (app.py)
